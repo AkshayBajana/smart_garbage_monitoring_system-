@@ -17,3 +17,5 @@ Hardware: Arduino/Raspberry Pi, ultrasonic sensors, Wi-Fi module (ESP8266, etc.)
 
 **The main idea for these project is to connect multiple ultrasonic sensors to a single Nodemcu(ESP8266).inorder to know the garbage level of the each dustbin and send alert messages(text messgaes,E-mail alerts) through blynk app(blynk console).**
 
+![image](https://github.com/user-attachments/assets/ea190667-f21e-45ab-bd03-d5a88a6c0985)
+
