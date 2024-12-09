@@ -23,5 +23,3 @@ OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/2a39d7ad-8349-437e-9046-dfc7c0d0dbeb)
 
-
-![image](https://github.com/user-attachments/assets/c793defd-d0d1-4583-97ba-8d2749091d94)
