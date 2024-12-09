@@ -4,11 +4,14 @@ The Smart Garbage Monitoring System is designed to optimize waste management by 
 
 Features:
 Real-time Monitoring: Continuously tracks the fill level of each bin.
+
 Alerts and Notifications: Sends alerts when bins are nearly full, allowing for timely collection.
+
 Data Visualization: Provides a dashboard for visualizing data and trends over time.
+
 Mobile Compatibility: Accessible on mobile devices for on-the-go monitoring.
+
 Scalability: Easily integrates additional bins or sensors as needed.
-Technologies Used
 
 Hardware: Arduino/Raspberry Pi, ultrasonic sensors, Wi-Fi module (ESP8266, etc.)
 
